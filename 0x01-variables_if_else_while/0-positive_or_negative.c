@@ -1,17 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/**
- *main - Entry point
- *
- *Return: Always 0 (Success)
- *
- */
+/* more headers goes there */
 
+/* betty style doc for function main goes there */
 /**
- *main - main fuction
- *Print whether the number stored in the variable n is positive or negative.
- *Return: Always 0 (Success)
+ * main - main function
+ * No Description:
+ * Return: 0
  */
 int main(void)
 {
