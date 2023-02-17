@@ -9,10 +9,9 @@
  */
 
 /**
- *A random number to the variable n each time it is executed.
- *
+ *main - main fuction
  *Print whether the number stored in the variable n is positive or negative.
- *
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
