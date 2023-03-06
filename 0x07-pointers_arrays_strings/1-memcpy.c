@@ -3,6 +3,10 @@
 /**
  *_memcpy - function copies n bytes from memory area
  *          src to memory area dest.
+ *@src: memory area copied from
+ *@dest: memory area copied to
+ *@n: bytes to be copied
+ *
  *Return: a pointer to dest.
  */
 
