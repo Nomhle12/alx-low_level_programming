@@ -16,7 +16,7 @@ unsigned char i;
 char *m = s;
 char value = b;
 
-for (i = 0, i < n; i++)
+for (i = 0; i < n; i++)
 m[i] = value;
 
 return (m);
